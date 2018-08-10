@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup (
 	name = 'aiowolfram',
-	version = '1.0.0',
+	version = '1.0.3',
 	description = 'an async wrapper for wolfram-alphas web api',
 	url = 'https://github.com/Apache-HB/aiowolfram',
 	author = 'Elliot Haisley',
